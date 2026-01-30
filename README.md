@@ -14,5 +14,4 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-
-# Here is an update by baileyvmcelroygit 
+# Here is an update by baileyvmcelroy
